@@ -12,14 +12,12 @@
     - 금액 입력<br>
     - 카테고리 선택<br>
     - 메모 작성<br>
-    ➡️ 지출 기록을 저장합니다.
   </div>
 
   <div class="feature">
     <span>2️⃣ 수입 내역 추가</span><br>
     - 금액 입력<br>
     - 메모 작성<br>
-    ➡️ 수입 기록을 저장합니다.
   </div>
 
   <div class="feature">
