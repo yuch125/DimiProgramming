@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>용돈 관리 프로그램</title>
+  <title>용돈 기입장</title>
   <style>
     body {
       font-family: "Segoe UI", sans-serif;
@@ -72,14 +72,6 @@
   <div class="feature">
     <span>5️⃣ 전체 조회</span><br>
     - 수입과 지출을 반영하여 <b>현재 잔액</b>을 보여줍니다.
-  </div>
-
-  <div class="example">
-    <h2>🏆 프로그램 활용 예시</h2>
-    - 오늘 점심값(5,000원, 식비) 기록<br>
-    - 아르바이트 수입(50,000원) 기록<br>
-    - 카테고리별 지출 확인 → 식비가 가장 많음<br>
-    - 전체 조회 → 현재 잔액 45,000원
   </div>
 </body>
 </html>
