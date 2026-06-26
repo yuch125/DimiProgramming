@@ -138,7 +138,7 @@ void view_by_category(){
    int t;
    // 카테고리별 내역 순위를 위해 버블 정렬 방식 사용 
    for(int i=1;i<=6;i++){
-      for(int j=1;j<=6-i;j++){
+      for(int j=1;j<=6-i-1;j++){
          if(categories_amounts[j][1]<categories_amounts[j+1][1]){
             t=categories_amounts[j][1];
             categories_amounts[j][1]=categories_amounts[j+1][1];
