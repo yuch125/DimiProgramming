@@ -1,43 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <title>용돈 기입장</title>
-  <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      margin: 40px;
-    }
-    h1 {
-      color: #2c3e50;
-      text-align: center;
-    }
-    h2 {
-      color: #16a085;
-      margin-top: 30px;
-    }
-    .feature {
-      background: #ecf0f1;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 15px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    .feature span {
-      font-weight: bold;
-      color: #2980b9;
-    }
-    .example {
-      background: #fff3cd;
-      padding: 15px;
-      border-radius: 8px;
-      margin-top: 30px;
-    }
-  </style>
-</head>
+
 <body>
   <h1>💰 간단한 용돈 관리 프로그램</h1>
   <p style="text-align:center;">수입과 지출을 기록하고, 카테고리별로 손쉽게 조회할 수 있는 프로그램입니다.</p>
